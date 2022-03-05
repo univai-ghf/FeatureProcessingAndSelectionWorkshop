@@ -28,7 +28,7 @@ Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 4 Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/FeatureProcessingAndSelectionWorkshop/blob/main/Exercises/Exercise4.ipynb)
 
-To further cement your understanding, we have a Homework Notebook which will cover all the topics from the lecture and give you a chance to work with an extensive dataset.
+To further cement your understanding, we have a Homework Notebook which will cover the topics from the lecture and give you a chance to work with an extensive dataset.
 
 ## Homework 
 Homework Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/FeatureProcessingAndSelectionWorkshop/blob/main/Homework/Homework.ipynb)
