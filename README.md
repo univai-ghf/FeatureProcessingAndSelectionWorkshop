@@ -28,4 +28,5 @@ Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 4 Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/FeatureProcessingAndSelectionWorkshop/blob/main/Exercises/Exercise4.ipynb)
 
-You will be notified via email when we add the homework. Stay tuned for that!
+## Homework 
+Homework Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/FeatureProcessingAndSelectionWorkshop/blob/main/Homework/Homewrok.ipynb)
