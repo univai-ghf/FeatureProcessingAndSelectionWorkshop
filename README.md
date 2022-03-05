@@ -6,7 +6,7 @@ The workshop is divided into four lectures and four exercises. As soon as you co
 
 ## Lecture 1: Foreseeing Variable Problems When Building Machine Learning Models
 
-Lecture 1 Notebook : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/FeatureProcessingAndSelectionWorkshop/blob/main/Lectures/Lecture1_ForseeingVariableProblemsWhenBildingMLModels.ipynb)
+Lecture 1 Notebook : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/FeatureProcessingAndSelectionWorkshop/blob/main/Lectures/Lecture1_ForeseeingVariableProblemsWhenBuildingMLModels.ipynb)
 
 Lecture 1 Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/FeatureProcessingAndSelectionWorkshop/blob/main/Exercises/Exercise1.ipynb)
 
