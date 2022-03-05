@@ -2,7 +2,7 @@
 
 The aim of this workshop is to educate you about the handling of the feature variables that you will use in modeling machine learning models. This workshop comprises of knowledge rich lectures as well as practical hands on labs so that you are ready to use what you learn.
 
-The workshops is divided into four lectures and four exercises. As soon as you complete a lecture an interesting exercise awaits you. The itinerary of the workshop is as follows:
+The workshop is divided into four lectures and four exercises. As soon as you complete a lecture an interesting exercise awaits you. The itinerary of the workshop is as follows:
 
 ## Lecture 1: Foreseeing Variable Problems When Building Machine Learning Models
 
