@@ -27,3 +27,5 @@ Lecture 3 Exercise: [![Open In Colab](https://colab.research.google.com/assets/c
 Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/FeatureProcessingAndSelectionWorkshop/blob/main/Lectures/Lecture4_TransformingNumericalVariables.ipynb)
 
 Lecture 4 Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/FeatureProcessingAndSelectionWorkshop/blob/main/Exercises/Exercise4.ipynb)
+
+You will be notified via email when we add the homework. Stay tuned for that!
